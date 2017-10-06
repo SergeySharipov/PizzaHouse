@@ -63,6 +63,12 @@
     font-size: medium
 }
 
+@media only screen and (max-width: 1026px) {
+    #img {
+        display: none;
+    }
+}
+
 footer {
     padding-top: 3rem;
     padding-bottom: 3rem;
