@@ -1,0 +1,34 @@
+.container-fluid {
+    background: #f7af35; font-size: medium;
+}
+
+.navbar-header {
+    font-size: medium;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+/*.container {*/
+    /*margin-left: 10%;*/
+/*}*/
+
+.row {
+    margin: 1rem;
+}
+
+.btn {
+    color: white;
+    background: #f7af35;
+    font-size: medium
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+footer p {
+    margin-bottom: .25rem;
+}
